@@ -29,20 +29,14 @@ export default function AttrSelect(props) {
         >
           <MenuItem value={"GP"}>GP</MenuItem>
           <MenuItem value={"W"}>W</MenuItem>
-          <MenuItem value={"L"}>L</MenuItem>
           <MenuItem value={"AGT"}>AGT</MenuItem>
-          <MenuItem value={"K"}>K</MenuItem>
-          <MenuItem value={"D"}>D</MenuItem>
           <MenuItem value={"KD"}>KD</MenuItem>
           <MenuItem value={"CKPM"}>CKPM</MenuItem>
-          <MenuItem value={"GSPD"}>GSPD</MenuItem>
           <MenuItem value={"FB"}>FB</MenuItem>
           <MenuItem value={"DRG"}>DRG</MenuItem>
           <MenuItem value={"BN"}>BN</MenuItem>
           <MenuItem value={"LNE"}>LNE</MenuItem>
-          <MenuItem value={"JNG"}>JNG</MenuItem>
           <MenuItem value={"WPM"}>WPM</MenuItem>
-          <MenuItem value={"CWPM"}>CWPM</MenuItem>
           <MenuItem value={"WCPM"}>WCPM</MenuItem>
 
         </Select>
